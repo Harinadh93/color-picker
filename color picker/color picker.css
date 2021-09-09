@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.color-picker-container {
+    background-color: #ffffff;
+    height: 100vh;
+}
+
+.color-picker-heading {
+    font-family: "Open Sans";
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.html-button1 {
+    height: 80px;
+    width: 80px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    font-family: "Open Sans";
+    font-size: 12px;
+    background-color: #e0e0e0;
+}
+
+.html-button2 {
+    height: 80px;
+    width: 80px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    font-family: "Open Sans";
+    font-size: 12px;
+    background-color: #6fcf97;
+}
+
+.html-button3 {
+    height: 80px;
+    width: 80px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    font-family: "Open Sans";
+    font-size: 12px;
+    background-color: #56ccf2;
+}
+
+.html-button4 {
+    height: 80px;
+    width: 80px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    font-family: "Open Sans";
+    font-size: 12px;
+    background-color: #bb6bd9;
+}
+
+.color-picker-description {
+    background-color: black;
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-weight: 500;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.selected-color-hex-code {
+    color: #49a6e9;
+    background-color: #222222;
+    font-family: "Open Sans";
+}
+
+.color-picker-instruction {
+    font-family: "Open Sans";
+    font-size: 20px;
+}
